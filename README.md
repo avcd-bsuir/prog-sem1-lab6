@@ -1,10 +1,8 @@
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://bit.ly/cc-by-nc-sa-40)
 
-# Template repository
-
-This is a template repository for programming laboratory works in BSUIR.
-
 # Usage
+
+To clone repository correctly use `--recursive` flag with `git`.
 
 To compile and run a program use:
 ```
@@ -13,11 +11,23 @@ $ ./build.sh gcc src/<filename>
 
 Executable will be started automatically. It can be found in `build/scr/` folder.
 
-# Semester \<#\> lab \<#\>
+# Semester \<1\> lab \<6\>
 
-## Task \<#\>
+## Task \<1\>
 
-Task description.
+Write a recursive line reversal function.
+
+Original (ru):
+
+Написать рекурсивную функцию переворота строки.
+
+## Task \<2\>
+
+Write a recursive line reversal function.
+
+Original (ru):
+
+Написать рекурсивную функцию переворота строки.
 
 # Credits
 
